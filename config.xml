@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>appPath</Name>
+		<Value>C:\Program Files (x86)\HP\QuickTest Professional\samples\flight\app\flight4a.exe</Value>
+	</Variable>
+	<Variable>
+		<Name>tMax</Name>
+		<Value>10</Value>
+	</Variable>
+</Environment>
